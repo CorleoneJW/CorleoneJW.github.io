@@ -8,7 +8,7 @@
 
 ```markdown
 1.[Voting Ensemble](waiting for putting on...)
-2.[Snapshot Ensemble](waiting for putting on...)
+2.[Snapshot Ensemble](/_posts/2020-12-06-Snapshot_Enmsemble.md)
 3.[Joint-training Cascade Net ](waiting for putting on...)
 ```
 
