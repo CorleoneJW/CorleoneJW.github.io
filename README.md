@@ -18,7 +18,5 @@
 2.Published the Retrieval System.
 ```
 
-Using the Markdown: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Support or Contact
 You could contact me through the github and I would reply as soon as possible.
