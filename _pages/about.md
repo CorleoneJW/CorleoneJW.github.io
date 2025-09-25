@@ -17,40 +17,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Nice to meet you! I’m Jie Wang, currently a PhD student at the School of Computer Science, University of Nottingham. I previously graduated from the University of Manchester and Donghua University. My research interests include large multimodal models and medical imaging. I have published papers in several top-tier journals, including Nature Communications, Medical Image Analysis (MIA).
+Nice to meet you! I’m Jie Wang, currently a PhD student at the School of Computer Science, University of Nottingham. I previously graduated from the University of Manchester and Donghua University. My research interests include large multimodal models and medical imaging. I have published papers in several top-tier journals and conferences, including Nature Communications, Medical Image Analysis (MIA).
 
 
 # 🔥 News
+- *2025.09*: &nbsp; 🎉 One paper has been accepted to the Nature Communications (NC, Q1, IF: 15.7).
 - *2025.06*: &nbsp; Become a PhD student. 
 
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='../images/nature_communications.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Development of deep learning-based narrow-band imaging endocytoscopic classification for predicting colorectal lesions from a retrospective study](https://www.nature.com/articles/s41467-025-63812-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250924&utm_content=10.1038/s41467-025-63812-5)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
+**Jie Wang**, Mingqing Liu, Haiming Liao, Jiawei Fan, He Zhu, Tantan Ma, Dong Yang, Fengming Ni, Fan Zhang, Guohua Jin, Juan Yu, Jiahui He, Xiaokun Liang, Nan Zhang, Hong Xu, Zhicheng Zhang
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We present a computer-aided diagnosis (CAD) model for colorectal lesion classification using narrow-band imaging endocytoscopy (EC-NBI). Inspired by progressive pre-training strategies in large language models, our approach integrates generalized and in-domain pre-training with supervised deep clustering. Evaluated on an independent cohort, the model outperforms state-of-the-art supervised methods at both image and lesion levels, surpassing even experienced endoscopists in human–machine competitions. By enhancing diagnostic accuracy and consistency, this CAD system advances the clinical utility of EC-NBI and supports the goal of optical biopsy.
 </div>
-</div> -->
+</div>
 
-- [Deep Learning-based Narrow-Band Imaging Endocytoscopic Classification for Predicting Colorectal Lesions: A Retrospective Study](https://github.com), Jie Wang, B, C, **Nature Communications**
+# 🏫 Affiliations
+- University of Nottingham.
+- Shenzhen University.
+- The first hospital of Jilin University.
+- University of Manchester.
+- Donghua University.
+- Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Professional Service
+### Journals/References Reviewer
+- TMI
+- MIA
+- AAAI
+- ICDM
