@@ -39,12 +39,12 @@ Nice to meet you! I’m Jie Wang, currently a PhD student at the School of Compu
 </div>
 
 # 🏫 Affiliations
-- University of Nottingham.
-- Shenzhen University.
-- The first hospital of Jilin University.
-- University of Manchester.
-- Donghua University.
-- Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences.
+- University of Nottingham
+- Shenzhen University
+- The first hospital of Jilin University
+- University of Manchester
+- Donghua University
+- Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences
 
 # 💻 Professional Service
 ### Journals/References Reviewer
