@@ -51,4 +51,5 @@ Nice to meet you! I’m Jie Wang, currently a PhD student at the School of Compu
 - TMI
 - MIA
 - AAAI
+- Scientific data
 - ICDM
