@@ -21,7 +21,8 @@ Nice to meet you! I’m Jie Wang, currently a PhD student at the School of Compu
 
 
 # 🔥 News
-- *2025.09*: &nbsp; 🎉 One paper has been accepted to the Nature Communications (NC, Q1, IF: 15.7).
+- *2025.11*: &nbsp; 🎉 One paper has been accepted to the Applied Soft Computing (ASOC, Q1, TOP, IF: 6.6).
+- *2025.09*: &nbsp; 🎉 One paper has been accepted to the Nature Communications (NC, Q1, TOP, IF: 15.7).
 - *2025.06*: &nbsp; Become a PhD student. 
 
 
@@ -38,6 +39,17 @@ Nice to meet you! I’m Jie Wang, currently a PhD student at the School of Compu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Soft Computing</div><img src='../images/ASOC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Advancing brain tumor segmentation in smart healthcare via T1-generated virtual multimodal MRI fusion](https://www.sciencedirect.com/science/article/pii/S1568494625015911)
+
+Youjian Zhang*, **Jie Wang\***, Xinquan Yang, Xinyuan Zhang, Abudoukeyoumujiang Abulizi, Hong Jiang, Guanqun Zhou, Haiming Liao, Gang Yu, Zhicheng Zhang
+
+- Precision segmentation of brain tumors is crucial for diagnosis, treatment, and prognosis in smart healthcare. While traditional single-modality methods have performance limitations, multimodal segmentation, though more accurate, increases patient scanning time and strains medical resources. This paper introduces a novel approach using a denoising diffusion probabilistic models to generate virtual T2, T1CE, and FLAIR images from singlemodality T1, enhancing segmentation without additional scans. By concurrently training the generation and segmentation networks, we achieve realistic multimodal images and precise tumor segmentation. Experiments show our method significantly outperforms single-modality techniques and rivals real multimodal segmentation, reducing the need for multimodal images, optimizing resource use, and offering an alternative for patients unable to receive contrast enhancers.
+</div>
+</div>
+
 # 🏫 Affiliations
 - University of Nottingham
 - Shenzhen University
@@ -48,6 +60,7 @@ Nice to meet you! I’m Jie Wang, currently a PhD student at the School of Compu
 
 # 💻 Professional Service
 ### Journals/References Reviewer
+- TIP
 - TMI
 - MIA
 - AAAI
