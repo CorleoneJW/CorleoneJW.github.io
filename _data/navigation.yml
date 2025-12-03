@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
 
   - title: "Affiliations"
-    url: "/#about-me"
+    url: "/#-affiliations"
 
   - title: "Professional Service"
-    url: "/#about-me"
+    url: "/#-professional-service"
