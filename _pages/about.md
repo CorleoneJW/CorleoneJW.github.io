@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Nice to meet you! I’m Jie Wang, currently a PhD student at the School of Computer Science, University of Nottingham. I previously graduated from the University of Manchester and Donghua University. My research interests include large multimodal models and medical imaging. I have published papers in several top-tier journals and conferences, including Nature Communications, Medical Image Analysis (MIA).
+Nice to meet you! I’m Jie Wang, currently a PhD student at the School of Computer Science, University of Nottingham. I previously graduated from the University of Manchester and Donghua University. My research interests include large multimodal models and medical imaging. I have published papers in several top-tier journals and conferences, including Nature Communications (NC), Medical Image Analysis (MIA), Applied Soft Computing (ASOC), MICCAI.
 
 
 # 🔥 News
@@ -59,10 +59,5 @@ Youjian Zhang*, **Jie Wang\***, Xinquan Yang, Xinyuan Zhang, Abudoukeyoumujiang 
 - Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences
 
 # 💻 Professional Service
-### Journals/References Reviewer
-- TIP
-- TMI
-- MIA
-- AAAI
-- Scientific data
-- ICDM
+### Reviewer of journals : TIP, TMI, MIA, Scientific data
+### Reviewer of conferences : AAAI, MICCAI, ICDM, ICASSP, ICPR
